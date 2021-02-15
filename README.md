@@ -1,1 +1,1 @@
-# hangmantry- made in reactjs
+ hangman game- made in reactjs
